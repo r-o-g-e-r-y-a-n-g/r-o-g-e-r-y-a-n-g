@@ -1,5 +1,12 @@
 ## Hi there 👋
+I'm an AI-accelerated Full-stack developer learning to code and excited to build with new technology. I graduated UC Irvine with a degree in Economics but studied computer engineering for 2 years. I've worked in the real estate industry for over a decade, and have provided technological solutions working for private funds as well as for publicly traded companies. As a Millenial I witnessed the development of the personal computer and invention of the internet. My first computer was a Commodore 64 but my first programming language was C.
 
+## Technology Certifications I've Earned 📃
+- MCSA: BI Reporting - Certified 2021
+- GitHub Foundations, 2024
+- Tokenized Real World Assets Bootcamp, Chainlink Labs, 2024
+- Chainlink Blockchain Fundamentals, Chainlink Labs, 2024
+- Google AI Essentials Specialization, Google, 2026
 <!--
 **r-o-g-e-r-y-a-n-g/r-o-g-e-r-y-a-n-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
