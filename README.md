@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Roger
-I'm an AI-Accelerated Full-Stack Developer learning to code and excited to build technology that improves our lives. I graduated UC Irvine with a degree in Economics but also studied computer engineering for 2 years. I've worked in the real estate industry for over a decade, and have provided technological solutions working for private funds as well as for publicly traded companies. As a Millennial I have witnessed the development of the personal computer and mass adoption of the internet. My first computer was a Commodore 64, my first social network was AOL, and my first programming language was C.
+I'm an AI-Accelerated Full-Stack Developer learning to code and excited to build technology that improves our lives. I graduated UC Irvine with a degree in Economics but also studied computer engineering for 2 years. I've worked in the real estate industry for over a decade, and have provided technological solutions working for private funds as well as for publicly traded companies. As a Millennial I have witnessed the development of the personal computer and mass adoption of the internet. I'm a digital native: my first computer was a Commodore 64, my first social network was AOL, and my first programming language was C.
 
 ## Technology Certifications 📃
 * **Google AI Essentials Specialization** – Google (2026)
