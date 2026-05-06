@@ -15,6 +15,7 @@ I'm an AI-Accelerated Full-Stack Developer learning to code and excited to build
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
+![](https://komarev.com/ghpvc/?username=r-o-g-e-r-y-a-n-g&color=green&style=plastic)
 <!--
 **r-o-g-e-r-y-a-n-g/r-o-g-e-r-y-a-n-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
