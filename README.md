@@ -9,7 +9,7 @@ I'm an AI-Accelerated Full-Stack Developer learning to code and excited to build
 * **MCSA: BI Reporting** – Microsoft (2021)
 
 ## 🚀 Featured Project: *[Hometown Success Engine](https://github.com/r-o-g-e-r-y-a-n-g/hometown-success-engine)*
-**[HometownSuccess.com](https://www.hometownsuccess.com)** for *[Team USA x Google Cloud Hackathon](https://vibecodeforgoldwithgoogle.devpost.com)* – Where does greatness begin? Our Gemini AI-powered engine maps 8,000 Team USA athletes across 3,000 hometowns, correlating sports with geography to reveal how the American landscape builds champions.
+**[HometownSuccess.com](https://www.hometownsuccess.com)** for *[Team USA x Google Cloud Hackathon](https://vibecodeforgoldwithgoogle.devpost.com)* – Where can we find athletic success? Our project maps 7,800 Team USA athletes across 2,800 hometowns. We correlate geography with sports using Gemini to reveal how America fosters Team USA excellence.
 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
