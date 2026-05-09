@@ -8,7 +8,7 @@ I'm an AI-Accelerated Full-Stack Developer learning to code and excited to build
 * **Chainlink Blockchain Fundamentals** – Chainlink Labs (2024)
 * **MCSA: BI Reporting** – Microsoft (2021)
 
-## 🚀 Featured Project: Hometown Success Engine
+## 🚀 Featured Project: *[Hometown Success Engine](https://github.com/r-o-g-e-r-y-a-n-g/hometown-success-engine)*
 **[HometownSuccess.com](https://www.hometownsuccess.com)** for *[Team USA x Google Cloud Hackathon](https://vibecodeforgoldwithgoogle.devpost.com)* – Where does greatness begin? Our Gemini AI-powered engine maps 8,000 Team USA athletes across 3,000 hometowns, correlating sports with geography to reveal how the American landscape builds champions.
 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
